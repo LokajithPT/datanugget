@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: datanugget
+Version: 0.0.1
+Summary: A collection of ML and data analysis code snippets
+Author-email: Aswath Msc <aswath@example.com>
+Project-URL: Homepage, https://github.com/aswathmsc/datanugget
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# datanugget
+
+A collection of ML and data analysis code snippets.
+
+## Install
+
+```bash
+pip install datanugget
+```
+
+## Usage
+
+```python
+import datanugget as dn
+
+# See all available snippets
+dn.help()
+
+# Generate a specific file
+dn.get("1", "output.py")
+```

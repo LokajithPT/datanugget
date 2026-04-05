@@ -1,0 +1,6 @@
+README.md
+pyproject.toml
+datanugget.egg-info/PKG-INFO
+datanugget.egg-info/SOURCES.txt
+datanugget.egg-info/dependency_links.txt
+datanugget.egg-info/top_level.txt
